@@ -1,0 +1,3 @@
+/home/matt/Documents/Projects/v0idengine-template/CMakeFiles/MyGame.dir
+/home/matt/Documents/Projects/v0idengine-template/CMakeFiles/edit_cache.dir
+/home/matt/Documents/Projects/v0idengine-template/CMakeFiles/rebuild_cache.dir

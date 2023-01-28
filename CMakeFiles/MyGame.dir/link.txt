@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyGame.dir/Main.cpp.o CMakeFiles/MyGame.dir/src/Game.cpp.o CMakeFiles/MyGame.dir/src/SceneLevel.cpp.o CMakeFiles/MyGame.dir/src/SceneSplashScreen.cpp.o -o MyGame  -lv0idengine -lsfml-graphics -lsfml-window -lsfml-system 
